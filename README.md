@@ -6,6 +6,8 @@
 
 This is a very simple POC, but makes you think, if simples shi likes this works, imagine moree advcaned can do. this  is one of my poc, the easy one trhats why i droped.
 
+Also, if you don't know how to use it, I've included the compiled tweak in `/exploit-demo` so you can use it directly.
+
 ## Overview
 
 This Proof of Concept demonstrates unexpected behavior in the handling of a specific WhatsApp message type.

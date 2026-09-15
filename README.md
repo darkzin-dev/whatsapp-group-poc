@@ -10,7 +10,7 @@ The message can be processed in an administrator-only group even when sent by a 
 
 ## Reproduction
 
-The behavior was investigated using runtime instrumentation of the WhatsApp iOS application.
+The behavior was investigated by instrumenting the WhatsApp iOS application.
 
 The PoC has two main parts:
 

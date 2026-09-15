@@ -21,7 +21,7 @@ An additional unicast event is then required to trigger the message-processing f
 
 ### 1. Administrator State
 
-The first part changes how the iOS client sees the current user's administrator status.
+The first part changes how the iOS client determines the current user's administrator status.
 
 The following methods are involved:
 
@@ -117,7 +117,7 @@ The `version` method returns an unsigned 64-bit value. In the PoC, that value is
 
 The name `WASignalEncryptResult` suggests that the class is related to an encryption or signaling result inside the WhatsApp client.
 
-WhatsApp relies on the Signal Protocol and other cryptographic components for its messaging system, so this class is part of that general area of the application.
+WhatsApp uses the Signal Protocol and other cryptographic components for its messaging system, so this class appears to be related to that part of the application.
 
 The PoC does not establish exactly what the value `3` represents internally. What was observed is that changing this value is part of the setup needed for the message behavior described here.
 
@@ -133,7 +133,7 @@ An additional unicast event is needed to trigger the message flow.
 
 A reaction is one example of an event that can trigger it.
 
-After the event is processed, the affected message reaches the iOS client and is displayed as an `unknown` message.
+After the event is processed, the message is then processed by the iOS client and displayed as an `unknown` message.
 
 ---
 
@@ -182,14 +182,14 @@ These are the conditions under which the behavior was observed during testing.
 
 ## Credits
 
-Found by **darkzin.dev** ( me ) in early 2022.
+Found by **darkzin** in early 2022.
 
 As of the last test, this behavior was still reproducible.
 
 More:
 
 * Website: https://darkzin.dev
-* Discord: not builded yet
+* Discord: Not built yet
 * GitHub: https://github.com/darkzin-dev
 
 More research and projects are available on **darkzin.dev**.

@@ -2,6 +2,10 @@
 
 > **Disclaimer:** This content is intended for research purposes only. I am not responsible for any account bans, restrictions, data loss, or other consequences that may result from its use. Proceed at your own risk.
 
+## Read this
+
+This is a very simple POC, but makes you think, if simples shi likes this works, imagine moree advcaned can do. this  is one of my poc, the easy one trhats why i droped.
+
 ## Overview
 
 This Proof of Concept demonstrates unexpected behavior in the handling of a specific WhatsApp message type.

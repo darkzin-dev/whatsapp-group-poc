@@ -4,9 +4,10 @@
 
 ## Read this
 
-This is a very simple POC, but makes you think, if simples shi likes this works, imagine moree advcaned can do. this  is one of my poc, the easy one trhats why i droped.
+This is a very simple PoC, but it makes you think: if something this simple works, imagine what more advanced techniques could do.
 
-Also, if you don't know how to use it, I've included the compiled tweak in `/exploit-demo` so you can use it directly.
+This is just one of my PoCs — a relatively easy one, and that's why I decided to drop it.
+
 
 ## Overview
 

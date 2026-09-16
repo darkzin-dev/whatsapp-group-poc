@@ -196,7 +196,7 @@ As of the last test, this behavior was still reproducible.
 More:
 
 * Website: https://darkzin.dev
-* Discord: Not built yet
+* Discord: https://discord.gg/dtEJTpA5JK
 * GitHub: https://github.com/darkzin-dev
 
 More research and projects are available on **darkzin.dev**.
